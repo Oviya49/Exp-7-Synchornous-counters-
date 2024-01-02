@@ -139,5 +139,5 @@ DOWN COUNTER
 
 ### RESULTS 
 
-By this we have verified the truth table of 4-bit up-counter using verilog
+By this we have verified the truth table of 4-bit up-counter using verilog.
 
